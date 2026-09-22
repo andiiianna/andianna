@@ -1,0 +1,53 @@
+# File: homework2.py
+
+# Your file path should look like:
+# python_decal_fa25/yourname/homework2/homework2.py
+
+# Questions (Answer these in the homework2.py file as comments):
+
+# 1) What’s the difference between Git, GitHub, and Git Bash?
+  # Git is used to track chnaged to your files and it locally on your computer, GitHub is the remote online place where all thr Git repositories are, and Git Bach is a commant-line for window users, it also locally on the computer 
+# 2) What’s the difference between the terminal and the command line?
+  # the terminal is a place where you interact wiht your computer directly, using command lines. command lines are the actual lines of code. 
+# 3) How does Windows PowerShell differ from Git Bash?
+  # from what i've read, powershell is made by Microsoft and (i think) is mainly used to manage things within the windows computer, not with the files and repositores, but with like system errors and it only uses a "Windoes-specific" language. On the other hand, Git Bash uses commands like ls and cd to allow you to work with stuff on your computer. (?)
+# 4) What’s the difference between Anaconda, conda, and Python?
+  # Python is the coding language that we use to write and run code, conda is a command-line tool used to download and manage packages, Anaconda is where pythona nd conda live, and can give you acces to hundres more packages
+# 5) What is VS Code? 
+  # VS code is free place where we can actaully write out code
+# 6) What is a Jupyter Notebook? How is it different from Jupyter Lab?
+  # Jupyter notebook is a place where we can save out code, like an actual notebook, but you can only view one document at a time, where Jupyter Lab can allow you to see multiple documents at once. 
+# 7) What does ~/ mean?
+  # it shows you that you are in your home directory 
+# 8) What’s the difference between an absolute path and a relative path?
+  # and absolute path will tell you the entire route to the folder fromt he root directory, while the relative path will give you a shortened version, using '.' and '..' to represent the current and parent directories 
+# 9) Imagine you're in your "yourname" repo. Write the absolute and relative paths to "course_assignments/homework2".
+  # absolute: /Users/andiiianna/downloasds/python_decal_fa26/andianna/course_assingment  relative: ./../course_assingment (?) 
+# 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
+  # cd .. 
+# 11) What would rm ./ do in your current directory? (Don’t try it!)
+  # i think it would remove the current directory 
+# 12) What do the following commands do?
+# git add #adds the work to the "staging area"
+# git commit #saving otu work locally 
+# git push #saving otu work remotely
+
+# 13) What's the difference between "git add ." and "git add <file>"?
+  # "git ass ." will save all the files, while "git ass <file>" will only save the files specified
+# 14) What do "git status" and "git log -1" do?
+  # "git status" tells you the status of your repostiory, weather it was commited or not. "git log -1" is used to view the commit history of the Git repository 
+# 15) What’s the difference between cloning a repository and pulling from it?
+  # you only need to clone it once, to actually get the copy of it on your computer, and you pull form it over once in a while to update it 
+# 16) What has been your most frustrating bug or error in this class so far? How did you troubleshoot or fix it?
+  # i havent run into amny bugs, but it has been difficult for em to keep track of what directory everything is in. i often see the "no file" when im trying to change directories. 
+# 17) What’s a question you still have? What’s something you’re confused about?
+  # im confsed abt the diffrences between powershell and git bash, i honestly didn't undertsand what I was reading. 
+# 18) Tell me a fun fact!
+  # when a horse is first bown its hooves are very soft, and within an hour the hooves harden allowing it to stand 
+# 19) Print your favorite math expression you've learned in Python so far. 
+# (Hint: Use print() and add a comment explaining what it does.)
+ print(5%2) #should print out 1, it prints the remainders
+
+exit()
+
+
