@@ -29,7 +29,6 @@ def divide(a, b):
 temp = [60,63,54,56,68,74,70]
 def high_low(temp):
     return min(temp), max(temp)
-print(high_low(temp))
 
 # 5.2 Check if it's the Weekend
 
