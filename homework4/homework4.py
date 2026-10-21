@@ -84,7 +84,7 @@ print(create_5x5_list())
 
 
 def multiple_of_three(list_5x5):
-    for row in list_5x5:
+    for row in list_5x5
         for i in range(5):
             if row[i] % 3 == 0:
                 row[i] = "?"
